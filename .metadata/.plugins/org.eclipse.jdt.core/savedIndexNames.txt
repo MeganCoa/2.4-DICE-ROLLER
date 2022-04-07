@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Megan\Documents\Classes\JavaBootCamp\Weeks\Week2\2.4 DICE ROLLER\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4257565187.index
+2057115021.index

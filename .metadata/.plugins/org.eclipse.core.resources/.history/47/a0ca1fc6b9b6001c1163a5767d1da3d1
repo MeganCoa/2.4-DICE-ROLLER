@@ -1,0 +1,20 @@
+import java.util.Scanner;
+import java.lang.Math;
+
+public class diceRoller {
+
+	public static void main(String[] args) {
+		System.out.println("How many sides should each die have?");
+		char choice = 'y';
+		Scanner scrn = new Scanner(System.in);
+		
+		while(choice == 'y'){
+			
+			System.out.println("Continue? (y/n): ");
+			
+			choice = scrn.next().charAt(0);
+	
+
+	}
+
+}
